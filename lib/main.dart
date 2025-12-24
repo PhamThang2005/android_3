@@ -18,6 +18,8 @@ class MyApp extends StatelessWidget {
     print("thang2");
     print("thang2");
     print("thang1");
+    print("thang2");
+    print("thang2");
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
